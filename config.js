@@ -1,9 +1,13 @@
 const CONFIGGG = {
     introTitle: 'Mai à!',
-    introDesc: `Anh đây không biết làm thơ
-    Yêu bằng tình cảm chứ không thơ tình
-    Vậy nên Mai có thích mình
-    Nhanh tay inbox mình thành tình yêu ❤`,
+    introDesc: `Anh đây không biết làm thơ.
+    
+    Yêu bằng tình cảm chứ không thơ tình.
+    
+    Vậy nên Mai có thích mình.
+    
+    Nhanh tay inbox mình thành tình yêu ❤
+    `,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
