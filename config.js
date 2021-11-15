@@ -15,5 +15,5 @@ const CONFIGGG = {
     mess: 'Biết mà, tui cũng iu Mai nhìu lắm',
     messDesc: 'Inbox trò chuyện tâm sự đêm phia ik.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/Huy.sieucapvjppro' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/AloneSemi/'
 }
